@@ -12,9 +12,8 @@
 *.exe
 
 # IDE Config Misc
-.vscode/
+# .vscode/
 .idea/
-.vscode
 
 # Project Config Misc
 build/
